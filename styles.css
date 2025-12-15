@@ -47,4 +47,9 @@ body {
 			}
 			#header, #footer, #sidebar, #content {
 				padding: 20px;
+
+			}
+			iframe {
+			    display: block;
+			    margin: 0 auto;
 			}
